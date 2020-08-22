@@ -1,0 +1,6 @@
+formatter.name: pretty
+stop_on_failure: true
+code_generation: false
+suites:
+    default:
+        src_path: ./src

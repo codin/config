@@ -1,0 +1,7 @@
+vendor
+bin
+coverage
+*.log
+*.phar
+*.cache
+*.lock
